@@ -1,0 +1,36 @@
+_repo: Le-paillasson-M0x153urs-de-province_66827
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tailhade, Laurent
+    aliases:
+    - Azede
+    - Cachetero, El
+    - Tybalt
+    - Patte-Pelue
+    - Juniperien, Dom
+    - Azède
+    - Junipérien, Dom
+    - Lorenzaccio
+    - Renzi
+    birthdate: 1854
+    deathdate: 1919
+    gutenberg_agent_id: '47304'
+    url: http://www.gutenberg.org/2009/agents/47304
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Laurent_Tailhade
+    - https://en.wikipedia.org/wiki/Laurent_Tailhade
+description: ''
+gutenberg_issued: '2021-11-26'
+identifiers:
+  gutenberg: '66827'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Le paillasson
+
+  Mœurs de province'
+url: http://www.gutenberg.org/ebooks/66827
